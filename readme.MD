@@ -1,5 +1,5 @@
 # Tugas Akhir SIG (Sistem Informasi Geografis)
-- Nama: Isi Namamu
-- NIM: NIMmu
+- Nama: Efortuntrio
+- NIM: D0221375
 - Kelas: Informatika A
 
